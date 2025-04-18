@@ -2,13 +2,6 @@
 
 **This repository is dedicated to learning new things for growth and staying consistent each day.**
 
-Thanks for the update! Here's your improved README reflecting the correct file names:
-
-
-**This repository contains Python tasks from Tutedude Assignments.**  
-Each task focuses on developing problem-solving skills and building consistency.
-
----
 
 ## 🚀 Assignment-2 Tasks
 
@@ -42,7 +35,3 @@ Make sure **Python** is installed on your system. Then, from your terminal or co
 python Even_or_Odd.py
 python Sum_of_1-50.py
 ```
-
----
-
-Let me know if you'd like me to generate the Python code for these tasks too!
